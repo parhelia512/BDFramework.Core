@@ -16,7 +16,6 @@
   <a href="https://996.icu/#/zh_CN"><img src="https://img.shields.io/badge/link-996.icu-ff4d5b.svg" alt="996.icu"></a>
   <a href="https://github.com/yimengfan/BDFramework.Core/blob/master/LICENSE"><img src="https://img.shields.io/github/license/yimengfan/BDFramework.Core" alt="license"></a>
 </p>
-
 <hr>
 
 BDFramework is designed to be a comprehensive and efficient pipeline for game development in Unity. It provides a complete workflow from development to deployment, including features like hot-fixing, asset management, and automated building. The framework is built with a focus on automation and editor enhancements to streamline the development process.
